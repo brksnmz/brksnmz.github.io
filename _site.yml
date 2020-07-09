@@ -1,0 +1,25 @@
+name: "Burak Sonmez"
+output_dir: "."
+navbar:
+  title: "Burak Sonmez, Ph.D."
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Other Writings"
+      href: other-writings.html
+   
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/brksnmz
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/socioburak
+    - icon: fa-linkedin fa-lg
+      href: https://https://www.linkedin.com/in/brksonmez/
+output:
+  html_document:
+    theme: readable
+    css: 'styles.css'

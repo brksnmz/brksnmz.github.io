@@ -1,0 +1,11 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Please feel free to reach out:
+
+brk.sonmez@gmail.com<br>
+
+Or connect with me on Twitter or Linkedin (links in top right).
+

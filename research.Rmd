@@ -1,0 +1,36 @@
+---
+title: " "
+pagetitle: "Burak Sonmez"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### <ins>*Publications*</ins>
+
+"The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." with Lo Iacono, S (forthcoming at **European Sociological Review**).
+
+**Abstract:** 
+
+Trusting and trustworthy environments are argued to promote collective action, as people learn to rely on their fellow citizens and believe that only few individuals will free ride. To test the causal validity of this mechanism, we propose an experimental design that allows us to create different trusting and trustworthy conditions simply by (1) manipulating the incentive structure of an iterated binary Trust Game and (2) allowing information to flow among participants. Findings indicate that, given a similar distribution of resources among subjects, trusting and trustworthy environments strongly foster the provision of public goods. This outcome is largely driven by a learning effect: subjects transfer what they assimilate during a sequence of dyadic exchanges to their decision to act for the collectivity. In particular, results showed that what we learn from the community has a relevant effect on our ability to overcome the free rider problem: we are more likely to act for the collectivity when we learn from the community to be trustful or reliable in our one-to-one interactions. The same applies in the opposite direction: we are more prone to free ride when we learn from the environment to be distrustful or unreliable in our
+dyadic exchanges.
+
+### <ins>*Work in progress*</ins>
+
+*"Human Rights Violations and Public Support for Sanctions: Evidence from a Conjoint Experiment." with Ari, B. [Preregistration](https://osf.io/hfusz/).*
+
+*"How Do Strong Family Ties Affect Trust in Different Trusting Environments?" with Ermisch, J., Gambetta, D. \& Lo Iacono, S. (Data collected \& manuscript in progress).*
+
+*"Does Mistrust Increase Preference for Private Ordering? Evidence from an Online Experiment." with Krakowski, K. \& Lo Iacono, S. (Data collected \& manuscript in progress).*
+
+*"Asymmetric Factual Information Environment and Partisanship: Public Preferences for Asylum
+Seekers." with Lo Iacono, S. \& Soysal, Y. (Data collected \& manuscript in progress).* 
+
+*"Trust in Scientists and Conspiratorial Thinking: Evidence from A Conjoint Experiment." with Makarov, K. & Allum, N. [Preregistration](https://osf.io/fe2s9) (Data collected \& manuscript in progress).*
+
+### <ins>*Reports*</ins>
+
+*"Integrated cross-national dataset on migration policies and recognition of foreign educational credentials. Growth, Equal Opportunities, Migration and Markets (GEMM)." with Soysal, Y., Alizade, J. \& Koopmans, R. 2018. [Access the report](https://gemm2020.eu/?resources=report-integrated-cross-national-dataset-on-migration-policies-and-recognition-of-foreign-educational-credentials).*
+
+
+You can also access my [Google scholar](https://scholar.google.nl/citations?user=dwXg2iIAAAAJ&hl=en) profile. 
+
