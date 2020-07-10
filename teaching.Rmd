@@ -6,7 +6,7 @@ pagetitle: "Burak Sonmez"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-### Postgraduate courses
+### <ins>Postgraduate courses</ins>
 
 Spring 2019: Introduction to Quantitative Analysis, London School of Economics & Political Science (LSE), **Seminar teacher**.
 
@@ -15,7 +15,7 @@ Fall 2018: Introduction to Quantitative Analysis for Media & Communications, Lon
 Summer 2018: Longitudinal Data Anaylsis, Essex Summer School in Social Science Data Analysis, **Teaching assistant**.
 
 
-### Undergraduate courses
+### <ins>Undergraduate courses</ins>
 
 Spring 2020: Models and Measurement in Quantitative Sociology, University of Essex, **Lecturer**.
 
@@ -29,7 +29,7 @@ Spring 2011-2012: Economic Theory for Engineers, Bilkent University, **Teaching 
 
 Fall 2010-2011: Mathematics for Economists, Bilkent University, **Teaching assistant**.
 
-### Workshops
+### <ins>Workshops</ins>
 
 Feb 2019: Online Data Collection through Crowdsourcing Marketplaces, University of Essex, **Lecturer**.
 
