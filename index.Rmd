@@ -8,7 +8,7 @@ pagetitle: "Burak Sonmez"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/brk_pic.jpg" style="width:35%; border:0px solid; margin-right: 20px" align="left">
+<img src="images/brk_pic.jpg" style="width:35%; border-radius: 50%; margin-right: 20px" align="left">
 
 I am a quantitative social scientist working on issues related to social norms, trust, collective action, and public opinion. My research uses survey and experimental methods to capture human behaviour in different environments and its underlying mechanisms. 
 
@@ -16,7 +16,7 @@ I received my Ph.D. in Sociology at [University of Essex](https://www.essex.ac.u
 
 My full CV is available [here](files/BS_CV_2020.pdf).
 
-<img src="images/network2.jpg" style="width:34%; border:0px solid; margin-right: 20px" align="left"><img src="images/network1.jpg" style="width:34%; border:0px solid; margin-right: 20px" align="right"><img src="images/network3.jpg" style="width:34%; border:0px solid; margin-right: 0px" align="center">
+
 
 
 
