@@ -8,7 +8,7 @@ pagetitle: "Burak Sonmez"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/brk_pic.jpg" style="width:35%; border-radius: 50%; margin-right: 20px" align="left">
+<img src="images/brk_pic.jpg" style="width:45%; border-radius: 2%; align:middle;margin:40px 250px">
 
 I am a quantitative social scientist working on issues related to social norms, trust, collective action, and public opinion. My research uses survey and experimental methods to capture human behaviour in different environments and its underlying mechanisms. 
 
