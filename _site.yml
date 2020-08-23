@@ -18,7 +18,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/socioburak
     - icon: fa-linkedin fa-lg
-      href: https://https://www.linkedin.com/in/brksonmez/
+      href: https://www.linkedin.com/in/brksonmez/
 output:
   html_document:
     theme: readable
