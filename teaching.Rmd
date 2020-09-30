@@ -8,14 +8,18 @@ pagetitle: "Burak Sonmez"
 
 ### <ins>Postgraduate courses</ins>
 
-Spring 2019: Introduction to Quantitative Analysis, London School of Economics & Political Science (LSE), *Seminars*.
+Fall 2020: Quantitative Social Research Methods, London School of Economics & Political Science, *Lectures*.
 
-Fall 2018: Introduction to Quantitative Analysis for Media & Communications, London School of Economics & Political Science (LSE), *Seminars*.
+Spring 2019: Introduction to Quantitative Analysis, London School of Economics & Political Science, *Seminars*.
+
+Fall 2018: Introduction to Quantitative Analysis for Media & Communications, London School of Economics & Political Science, *Seminars*.
 
 Summer 2018: Longitudinal Data Anaylsis, Essex Summer School in Social Science Data Analysis, *Lab sessions*.
 
 
 ### <ins>Undergraduate courses</ins>
+
+Fall 2020: Data in Society, London School of Economics & Political Science, *Lectures & Seminars*.
 
 Spring 2020: Models and Measurement in Quantitative Sociology, University of Essex, *Lectures*.
 
@@ -33,5 +37,5 @@ Fall 2010-2011: Mathematics for Economists, Bilkent University, *Teaching assist
 
 Feb 2019: Online Data Collection through Crowdsourcing Marketplaces, University of Essex, *Lectures*.
 
-Jun 2018: Online Data Collection through Crowdsourcing Marketplaces, European University Institute (EUI), *Lectures*. 
+Jun 2018: Online Data Collection through Crowdsourcing Marketplaces, European University Institute, *Lectures*. 
 
