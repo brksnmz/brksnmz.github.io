@@ -9,8 +9,7 @@ pagetitle: "Burak Sonmez"
 
 <ins>**2020**</ins>
 
-"The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." with Lo Iacono, S. <span style="color:blue">Access the article:</span> <button name="DOI" style="background-color:#53760D;color:#D0F18F"
- onclick="https://doi.org/10.1093/esr/jcaa040">DOI</button> **European Sociological Review**).
+"The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." with Lo Iacono, S. <span style="color:blue">Access the article:</span> <button name="DOI" style="background-color:#53760D;color:#D0F18F" onclick="window.location.href = 'https://doi.org/10.1093/esr/jcaa040';">DOI</button> **European Sociological Review**).
 
 **Abstract:** 
 
