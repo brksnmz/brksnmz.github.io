@@ -11,13 +11,13 @@ navbar:
       href: other-writings.html
    
   right:
-    - icon: fa-envelope fa-lg
+    - icon: fa-envelope 
       href: contact.html
-    - icon: fa-github fa-lg
+    - icon: fa fa-github
       href: http://github.com/brksnmz
-    - icon: fa-twitter fa-lg
+    - icon: fa fa-twitter 
       href: https://twitter.com/socioburak
-    - icon: fa-linkedin fa-lg
+    - icon: fa fa-linkedin 
       href: https://www.linkedin.com/in/brksonmez/
 output:
   html_document:
