@@ -8,7 +8,8 @@ pagetitle: "Burak Sonmez"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/brk_pic.jpg" style="width:45%; border-radius: 2%; align:middle;margin:40px 250px">
+<img src="images/brk_pic.jpeg" style="width:35%; border-radius: 50%;  align:center;margin: auto">
+
 
 I am an [LSE](https://www.lse.ac.uk/sociology) Fellow in Quantitative Social Research Methods. My broad research interests centre around social norms, trust, collective action, and public opinion. My studies primarily use experimental and CSS methods to understand social preferences in various domains and identify their underlying mechanisms.
 

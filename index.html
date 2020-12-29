@@ -25,6 +25,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -69,6 +78,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -287,25 +297,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/brksnmz">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/socioburak">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/brksonmez/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -323,7 +333,7 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="images/brk_pic.jpg" style="width:45%; border-radius: 2%; align:middle;margin:40px 250px"></p>
+<p><img src="images/brk_pic.jpeg" style="width:35%; border-radius: 50%;  align:center;margin: auto"></p>
 <p>I am an <a href="https://www.lse.ac.uk/sociology">LSE</a> Fellow in Quantitative Social Research Methods. My broad research interests centre around social norms, trust, collective action, and public opinion. My studies primarily use experimental and CSS methods to understand social preferences in various domains and identify their underlying mechanisms.</p>
 <p>Prior to joining the LSE, I received my Ph.D. in Sociology at <a href="https://www.essex.ac.uk/departments/sociology">University of Essex</a>, where I also taught the module called Models &amp; Measurement in Quantitative Sociology. I hold a Master’s degree in Longitudinal Social Research from the same institution and a Bachelor’s degree in Economics from <a href="http://econ.bilkent.edu.tr/">Bilkent University</a>.</p>
 <p>I frequently engage in research collaborations. One of my collaborative research appears in European Sociological Review. The project analyses the causal mechanism where trusting and trustworthy environments promote collective action, as people learn to rely on their fellow citizens and believe that only few individuals will free ride, using a real-time online interactive experiment. I work on several other experimental research projects to study a wide range of topics, such as motivated reasoning and public preferences for scientists; asymmetric factual information environment and public preferences for asylum seekers; third-party punishment against human rights violators; the impact of family ties on social trust; and the impact of mistrust on preferences for private ordering.</p>
@@ -339,7 +349,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
