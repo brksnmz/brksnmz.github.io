@@ -6,7 +6,7 @@ pagetitle: "Burak Sonmez"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-### <ins>Postgraduate courses</ins>
+### **Postgraduate courses**
 
 Fall 2020: Quantitative Social Research Methods, London School of Economics & Political Science, *Lectures*.
 
@@ -17,7 +17,9 @@ Fall 2018: Introduction to Quantitative Analysis for Media & Communications, Lon
 Summer 2018: Longitudinal Data Anaylsis, Essex Summer School in Social Science Data Analysis, *Lab sessions*.
 
 
-### <ins>Undergraduate courses</ins>
+### **Undergraduate courses**
+
+Spring 2021: Researching London: Advanced Social Research Methods, London School of Economics & Political Science, *Lectures & Lab sessions*.
 
 Fall 2020: Data in Society, London School of Economics & Political Science, *Lectures & Seminars*.
 
@@ -33,7 +35,7 @@ Spring 2011-2012: Economic Theory for Engineers, Bilkent University, *Teaching a
 
 Fall 2010-2011: Mathematics for Economists, Bilkent University, *Teaching assistant*.
 
-### <ins>Workshops</ins>
+### **Workshops**
 
 Feb 2019: Online Data Collection through Crowdsourcing Marketplaces, University of Essex, *Lectures*.
 

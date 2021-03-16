@@ -5,7 +5,7 @@ pagetitle: "Burak Sonmez"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### <ins>*Publications*</ins>
+### **Publications**
 
 "The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." with Lo Iacono, S. 
 
@@ -24,9 +24,9 @@ dyadic exchanges.
 <img src="images/trust1.png" style="width:55%; border-radius: 2%; vertical-align: middle">
 
 
-### <ins>*Work in progress*</ins>
+### **Work in progress**
 
-*"Trust in Scientists and Conspiratorial Thinking: Evidence from A Conjoint Experiment." with Makarov, K. & Allum, N. [Preregistration](https://osf.io/fe2s9) (Data collected \& manuscript in progress).*
+*"Public Perception of Scientists: Partisan vs Non-partisan Thinking." [Preregistration](https://osf.io/fe2s9) (Data collected \& manuscript in progress).*
 
 **Abstract:**
 
@@ -38,8 +38,8 @@ Public opinion toward scientists differs along disciplinary, institutional, soci
 
 Domestic public support for taking punitive action against a human right violating country is often the main driving force for economic sanctions. However, imposing sanctions is a complex foreign policy instrument, varying greatly in effectiveness, costs on the sender and the differential harm inflicted upon the target population and leadership. How do individuals form their opinion in such a complex issue? We argue that an individual makes a multidimensional trade-off by jointly reflecting on several contextual factors that affect the perception of morality as well as the cost-benefit analysis. Based on this theoretical framework, we design a paired conjoined experiment to reveal key factors and interactions among them in understanding the preference-based third-party punishment. Our study is first to manipulate the type of human rights abuse, differential harm inflicted. 
 
-*"Asymmetric Factual Information Environment and Partisanship: Public Preferences for Asylum
-Seekers." with Lo Iacono, S. (Data collected \& manuscript in progress).* 
+*"Factual Information Environment and Partisanship: Public Preferences for Asylum
+Seekers." with Lo Iacono, S. (Under review).* 
 
 **Abstract:**
 
@@ -53,7 +53,7 @@ The idea that having strong family ties can inhibit the development of trust in 
 
 *"Does Mistrust Increase Preference for Private Ordering? Evidence from an Online Experiment." with Krakowski, K. \& Lo Iacono, S. (Data collected \& manuscript in progress).*
 
-### <ins>*Reports*</ins>
+### **Reports**
 
 *"Integrated cross-national dataset on migration policies and recognition of foreign educational credentials. Growth, Equal Opportunities, Migration and Markets (GEMM)." with Soysal, Y., Alizade, J. \& Koopmans, R. 2018. Download the report [<ins>here</ins>](https://gemm2020.eu/?resources=report-integrated-cross-national-dataset-on-migration-policies-and-recognition-of-foreign-educational-credentials)*
 

@@ -21,5 +21,5 @@ navbar:
       href: https://www.linkedin.com/in/brksonmez/
 output:
   html_document:
-    theme: readable
+    theme: cerulean
     css: 'styles.css'

@@ -5,7 +5,7 @@ pagetitle: "Burak Sonmez"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### <ins>*Book reviews*</ins>
+### **Book reviews**
 
 *"Competing Responsibilities: The Ethics and Politics of Contemporary Life. 2018. Cultural
 Sociology, 12(2), 276–277." [Access the review](https://doi.org/10.1177/1749975518768756)*
