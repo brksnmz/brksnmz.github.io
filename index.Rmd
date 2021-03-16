@@ -11,7 +11,7 @@ pagetitle: "Burak Sonmez"
 <img src="images/brk_pic.jpeg" style="width:35%; border-radius: 50%;  align:center;margin: auto">
 
 
-I am an [LSE](https://www.lse.ac.uk/sociology) Fellow in Quantitative Social Research Methods. My broad research interests centre around social norms, trust, collective action, and public opinion. My studies primarily use experimental and CSS methods to understand social preferences in various domains and identify their underlying mechanisms.
+I am an [LSE](https://www.lse.ac.uk/sociology) Fellow in Quantitative Social Research Methods. My broad research interests centre around social norms, trust, collective action, public opinion, and social stratification. My studies primarily use experimental and CSS methods to understand social preferences in various domains and identify their underlying mechanisms.
 
 Prior to joining the LSE, I received my Ph.D. in Sociology at [University of Essex](https://www.essex.ac.uk/departments/sociology), where I also taught the module called Models \& Measurement in Quantitative Sociology. I hold a Master’s degree in Longitudinal Social Research from the same institution and a Bachelor’s degree in Economics from [Bilkent University](http://econ.bilkent.edu.tr/). 
 
