@@ -26,7 +26,14 @@ dyadic exchanges.
 
 ### **Work in progress**
 
-*"Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Makarovs, K. \& Allum, N. [Preregistration](https://osf.io/fe2s9) (Data collected \& manuscript in progress).*
+*"Factual Information Environment and Partisanship: Public Preferences for Asylum
+Seekers." with Lo Iacono, S. (Under review).* 
+
+**Abstract:**
+
+This project uses a lab experiment to examine how factual information on asylum seekers changes the public preferences of native citizens on policies towards asylum seeking and their related pro-social behaviour. In doing so, the study reflects on the theoretical considerations and inconsistent empirical findings on information processing. In our research, we specifically test whether factual information provision may ease or backfire unwelcoming attitudes towards asylum seeking policies along partisan lines in the UK. We further test whether factual information provision on asylum seekers improve or worsen pro-social behaviour, such as charitable giving toward asylum seekers’ wellbeing, of native-born population through the moderation of partisanship. Our results show that factual information provision by a neutral source could be an effective tool to communicate with native-born population in dealing with public biases, even though their preferred partisan identities have unfavourable views towards asylum seekers.
+
+*"Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Makarovs, K. \& Allum, N. [Preregistration](https://osf.io/fe2s9) (Under review).*
 
 **Abstract:**
 
@@ -37,13 +44,6 @@ Public opinion toward scientists differs along disciplinary, institutional, soci
 **Abstract:**
 
 Domestic public support for taking punitive action against a human right violating country is often the main driving force for economic sanctions. However, imposing sanctions is a complex foreign policy instrument, varying greatly in effectiveness, costs on the sender and the differential harm inflicted upon the target population and leadership. How do individuals form their opinion in such a complex issue? We argue that an individual makes a multidimensional trade-off by jointly reflecting on several contextual factors that affect the perception of morality as well as the cost-benefit analysis. Based on this theoretical framework, we design a paired conjoined experiment to reveal key factors and interactions among them in understanding the preference-based third-party punishment. Our study is first to manipulate the type of human rights abuse, differential harm inflicted. 
-
-*"Factual Information Environment and Partisanship: Public Preferences for Asylum
-Seekers." with Lo Iacono, S. (Under review).* 
-
-**Abstract:**
-
-This project uses a lab experiment to examine how factual information on asylum seekers changes the public preferences of native citizens on policies towards asylum seeking and their related pro-social behaviour. In doing so, the study reflects on the theoretical considerations and inconsistent empirical findings on information processing. In our research, we specifically test whether factual information provision may ease or backfire unwelcoming attitudes towards asylum seeking policies along partisan lines in the UK. We further test whether factual information provision on asylum seekers improve or worsen pro-social behaviour, such as charitable giving toward asylum seekers’ wellbeing, of native-born population through the moderation of partisanship. Our results show that factual information provision by a neutral source could be an effective tool to communicate with native-born population in dealing with public biases, even though their preferred partisan identities have unfavourable views towards asylum seekers.
 
 *"How Do Strong Family Ties Affect Trust in Different Trusting Environments?" with Ermisch, J., Gambetta, D. \& Lo Iacono, S. (Data collected \& manuscript in progress).*
 
