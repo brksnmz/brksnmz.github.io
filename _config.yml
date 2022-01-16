@@ -29,8 +29,8 @@ github_username:  brksnmz
 linkedin_username: brksonmez
 author_website: https://brksnmz.github.io/
 author_display: true
-googlescholar_link: https://scholar.google.com/citations?user=dwXg2iIAAAAJ&hl=en 
-#uni_link: 
+#googlescholar_link: 
+uni_link: https://scholar.google.com/citations?user=dwXg2iIAAAAJ&hl=en 
 
 nav_ext_links:
   - name: CV
