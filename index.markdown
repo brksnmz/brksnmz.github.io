@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Burak Sonmez
+title: 
 ---
 
 Hi,
