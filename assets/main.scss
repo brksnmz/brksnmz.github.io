@@ -7,20 +7,20 @@
 
 // Our variables
 // $base-font-family: "Open Sans", sans-serif;
-$base-font-family: "PT Serif", serif;
+$base-font-family: "Raleway", Verdana, sans-serif;
 $base-font-size:   20px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: "Open Sans", sans-serif;
+$alt-font-family: "Raleway", Verdana, sans-serif;
 $alt-font-weight: bold;
 
 $spacing-unit:     50px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #d33682;
+$brand-color:      #489AE5;
 
 $grey-color:       #3F3F3F;
 $grey-color-light: lighten($grey-color, 50%);
@@ -44,3 +44,5 @@ $on-laptop:        700px;
 
 // Import partials from the `minima` theme.
 @import "academic";
+
+@import "mystyles.scss";
