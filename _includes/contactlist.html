@@ -3,9 +3,6 @@
   {{ site.data.academic_i18n.links[plang] }}
 </span>
 <ul class="contact-list {{ include.class }}">
-  <li>
-    {% include _icons/rss.html %}
-  </li>
 
   {% if site.github_username %}
   <li>
@@ -28,6 +25,18 @@
   {% if site.keybase_username %}
   <li>
     {% include _icons/keybase.html username=site.keybase_username %}
+  </li>
+  {% endif %}
+
+  {% if site.googlescholar_link %}
+  <li>
+    {% include _icons/googlescholar.html link=site.googlescholar_link %}
+  </li>
+  {% endif %}
+
+  {% if site.uni_link %}
+  <li>
+    {% include _icons/uni.html link=site.uni_link %}
   </li>
   {% endif %}
 
