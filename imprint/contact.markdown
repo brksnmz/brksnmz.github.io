@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /imprint/
+permalink: /contact/
 ---
 
 Feel free to reach out if you are interested in my research: \
