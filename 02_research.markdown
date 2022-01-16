@@ -4,9 +4,6 @@ title: Research
 menu: main
 permalink: /research/
 ---
-
-## Research
-
 ### Journal publications
 
 - "The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." *European Sociological Review*, 2021, with Sergio Lo Iacono 
@@ -21,7 +18,7 @@ permalink: /research/
 
 - "Human Rights Violations and Public Support for Sanctions." with Baris Ari. (Under review). [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}.
 
-- "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs \& Nick Allum. (Under review) [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"}.
+- "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs and Nick Allum. (Under review) [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"}.
 
 - "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Pre-reg in progress).
 
