@@ -7,7 +7,6 @@ permalink: /workshops/
 
 ## 1st Experimental Sociology Workshop (24-25 June 2021)
 
-
 The growing interest in causal explanations and social mechanisms through well-constructed sociological theories has motivated many researchers to turn to experimental research design
 to advance empirical knowledge. This workshop will provide a platform for researchers to discuss their new experimental research in sociology. We especially encourage contributions
 from early career researchers. There will be a dedicated discussant from our program committee for each extended abstract, as well as open floor discussion. Extended abstracts
