@@ -5,7 +5,7 @@ menu: main
 permalink: /workshops/
 ---
 
-## Experimental Sociology Workshop (24-25 June 2021)
+## 1st Experimental Sociology Workshop (24-25 June 2021)
 
 The growing interest in causal explanations and social mechanisms through well-constructed sociological theories has motivated many researchers to turn to experimental research design
 to advance empirical knowledge. This workshop will provide a platform for researchers to discuss their new experimental research in sociology. We especially encourage contributions
@@ -40,6 +40,12 @@ Keynote Speaker:
 
 - Delia Baldassarri (New York University)
 
-![Call for Submission](assets/Workshop_call.jpeg)
+### Workshop Schedule 
 
+![Workshop Schedule1](assets/Workshop_schedule1.jpg)
+![Workshop Schedule2](assets/Workshop_schedule2.jpg)
+
+### Workshop Videos
+
+[![VIDEO](https://img.youtube.com/vi/FLI3CacC0mU/1.jpg)](https://www.youtube.com/watch?v=FLI3CacC0mU)
 
