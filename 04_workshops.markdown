@@ -40,6 +40,6 @@ Keynote Speaker:
 
 - Delia Baldassarri (New York University)
 
-<img src="assets/Workshop_call.jpeg" style="width:35%; border-radius: 50%;  align:center;margin: auto">
+![Call for Submission](assets/Workshop_call.jpeg)
 
 
