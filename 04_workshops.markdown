@@ -34,6 +34,12 @@ Program Committee:
 
 - Wojtek Przepiorka (Utrecht University)
 
+- Nan Zhang (Max Planck Institute) 
+
 Keynote Speaker:
 
 - Delia Baldassarri (New York University)
+
+<img src="assets/Workshop_call.jpeg" style="width:35%; border-radius: 50%;  align:center;margin: auto">
+
+
