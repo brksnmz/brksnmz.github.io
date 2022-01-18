@@ -5,7 +5,7 @@ menu: main
 permalink: /workshops/
 ---
 
-## Experimental Sociology Workshop 
+## Experimental Sociology Workshop (24-25 June 2021)
 
 The growing interest in causal explanations and social mechanisms through well-constructed sociological theories has motivated many researchers to turn to experimental research design
 to advance empirical knowledge. This workshop will provide a platform for researchers to discuss their new experimental research in sociology. We especially encourage contributions
@@ -20,20 +20,20 @@ Organisers: Burak Sonmez (LSE) and Sergio Lo Iacono (Utrecht University)
 
 Program Committee:
 
--Brent Simpson (University of South Carolina)
+- Brent Simpson (University of South Carolina)
 
--Hana Shepherd (Rutgers University)
+- Hana Shepherd (Rutgers University)
 
--Klarita Gërxhani (European University Institute)
+- Klarita Gërxhani (European University Institute)
 
--Milena Tsvetkova (LSE)
+- Milena Tsvetkova (LSE)
 
--Ozan Aksoy (University College London)
+- Ozan Aksoy (University College London)
 
--Ulf Liebe (University of Warwick)
+- Ulf Liebe (University of Warwick)
 
--Wojtek Przepiorka (Utrecht University)
+- Wojtek Przepiorka (Utrecht University)
 
 Keynote Speaker:
 
--Delia Baldassarri (New York University)
+- Delia Baldassarri (New York University)
