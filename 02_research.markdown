@@ -8,7 +8,7 @@ permalink: /research/
 
 - "Other-regarding Behaviors and Attitudes toward Asylum Seekers." *Socius*, 2022, with Sergio Lo Iacono. 
 
-  [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [data](https://osf.io/mecpj/?view_only=4c1d81746fd545a7a62462fbeeee2194){: .button}{:target="_blank"}
+  [pdf](https://brksnmz.github.io/assets/socius.pdf){: .button}{:target="_blank"} [data](https://osf.io/mecpj/?view_only=4c1d81746fd545a7a62462fbeeee2194){: .button}{:target="_blank"}
 
 - "The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." *European Sociological Review*, 2021, with Sergio Lo Iacono. 
 
