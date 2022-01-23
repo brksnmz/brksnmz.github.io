@@ -12,7 +12,7 @@ permalink: /research/
 
 - "The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." *European Sociological Review*, 2021, with Sergio Lo Iacono. 
 
-  [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/esr/jcaa040){: .button}{:target="_blank"
+  [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/esr/jcaa040){: .button}{:target="_blank"}
 
 ### Work in progress
 
