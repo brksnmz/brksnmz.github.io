@@ -30,7 +30,7 @@ permalink: /research/
 
 - "Meritocracy, Status Signalling, and Performance Metrics: Behavioural Responses to Inequality." with Fabien Accominotti. (Pre-reg in progress).
 
-- "Status Hierarchies and Distributional Inequality". (Pre-reg in progress).  
+- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Pre-reg in progress).  
 
 ### Book chapters
 
