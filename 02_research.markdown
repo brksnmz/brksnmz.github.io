@@ -26,7 +26,7 @@ permalink: /research/
 
   [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"}
 
-- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Pre-reg in progress).
+- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Data collection in progress).
 
 - "Meritocracy, Status Signalling, and Performance Metrics: Behavioural Responses to Inequality." with Fabien Accominotti. (Pre-reg in progress).
 
