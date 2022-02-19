@@ -32,6 +32,9 @@ permalink: /research/
 
 - "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Pre-reg in progress).  
 
+- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." Sergio Lo Iacono. (Pre-reg in progress).
+
+
 ### Book chapters
 
 - "Double-edged Sword of Cooperation: The Vulnerability of Trusting and Trustworthy Behaviour." In: Barradas de Freitas, Raquel & Lo Iacono, Sergio (eds.) (2021). *Trust Matters: Cross-Disciplinary Essays, Hart Publishing*. 
