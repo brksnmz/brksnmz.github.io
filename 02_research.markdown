@@ -32,7 +32,7 @@ permalink: /research/
 
 - "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Pre-reg in progress).  
 
-- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." Sergio Lo Iacono. (Pre-reg in progress).
+- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Pre-reg in progress).
 
 
 ### Book chapters
