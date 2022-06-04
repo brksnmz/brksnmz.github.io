@@ -7,7 +7,7 @@ Hi,
 
 I am a Lecturer in Quantitative Social Science in UCL Social Research Institute at [University College London](https://www.ucl.ac.uk/){:target="_blank"}.
 
-My broad research interests centre around social norms, trust, collective action, beliefs, other-regarding preferences, and social stratification. My studies primarily use experimental methods and computational tools. 
+My broad research interests centre around social norms; trust; collective action; beliefs; other-regarding preferences; inequality; and stratification. My studies primarily use experimental methods and computational tools. 
 
 Prior to joining UCL, I was an LSE Fellow in Quantitative Social Research Methods in the Department of Sociology at [London School of Economics and Political Science](https://www.lse.ac.uk/sociology){:target="_blank"}. 
 
