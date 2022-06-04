@@ -24,7 +24,7 @@ permalink: /research/
 
 - "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs and Nick Allum. (Under review).
 
-  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
 
 - "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Data collection in progress).
 
