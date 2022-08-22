@@ -11,17 +11,11 @@ permalink: /teaching/
 
 - Game Theory for Social Sciences (undergrad).
 
-- Intro to Regression Analysis (postgrad).
-
 - Social Network Analysis (undergrad). 
-
-- Advanced Quantitative Methods (postgrad). 
-
-- Using Stata Effeciently and Effectively (postgrad).
 
 ## Previous teaching experiences
 
-- Jun 2021: Quantitative Methods of Empirical Social Research, Pompeu Fabra University (UPF), The RECSM Summer
+- Jun 2021-2022: Quantitative Methods of Empirical Social Research, Pompeu Fabra University (UPF), The RECSM Summer
 Methods School.
 
 - Spring 2021: Researching London: Advanced Social Research Methods, London School of Economics & Political Science.

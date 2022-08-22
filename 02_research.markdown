@@ -26,14 +26,13 @@ permalink: /research/
 
   [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
 
-- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Data collection in progress).
+- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Manuscript in progress).
+
+- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
 
 - "Meritocracy, Status Signalling, and Performance Metrics: Behavioural Responses to Inequality." with Fabien Accominotti. (Pre-reg in progress).
 
 - "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Pre-reg in progress).  
-
-- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Pre-reg in progress).
-
 
 ### Book chapters
 
