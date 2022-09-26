@@ -15,6 +15,12 @@ permalink: /teaching/
 
 ## Previous teaching experiences
 
+- Spring 2022: Advanced Quantitative Methods, University College London.
+
+- Spring 2022: Data Analysis in the Real World, University College London.
+
+- Fall 2021: Intro to Regression Analysis, University College London.
+
 - Jun 2021-2022: Quantitative Methods of Empirical Social Research, Pompeu Fabra University (UPF), The RECSM Summer
 Methods School.
 
