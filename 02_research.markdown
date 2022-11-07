@@ -6,6 +6,8 @@ permalink: /research/
 ---
 ### Journal publications
 
+- "Trust and Strength of Family Ties: New Experimental Evidence" *Accepted at Social Psychology Quarterly*, 2022, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
+
 - "Other-regarding Behaviors and Attitudes toward Asylum Seekers." *Socius*, 2022, with Sergio Lo Iacono. 
 
   [pdf](https://brksnmz.github.io/assets/socius.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/23780231211073392){: .button}{:target="_blank"} [data](https://osf.io/mecpj/?view_only=4c1d81746fd545a7a62462fbeeee2194){: .button}{:target="_blank"}
@@ -15,8 +17,6 @@ permalink: /research/
   [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/esr/jcaa040){: .button}{:target="_blank"}
 
 ### Work in progress
-
-- "How Do Strong Family Ties Affect Trust in Different Trusting Environments?" with John Ermisch, Diego Gambetta, and Sergio Lo Iacono. (Under review).
 
 - "Human Rights Violations and Public Support for Sanctions." with Baris Ari. (Under review). 
 
