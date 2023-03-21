@@ -34,7 +34,7 @@ uni_link:
 
 nav_ext_links:
   - name: CV
-    url: https://brksnmz.github.io/assets/BS_CV2023.pdf
+    url: /assets/BS_CV2023.pdf
 
 # Build settings
 # theme: academic
