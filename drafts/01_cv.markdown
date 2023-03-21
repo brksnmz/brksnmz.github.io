@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<a href="[brksnmz.github.io/assets/BS_CV2023.pdf](https://github.com/brksnmz/brksnmz.github.io/blob/main/assets/Burak_CV2023.pdf)" target="_blank">PDF</a>
+<a href="https://brksnmz.github.io/assets/BS_CV2023.pdf" target="_blank">PDF</a>
