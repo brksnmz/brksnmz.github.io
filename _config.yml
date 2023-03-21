@@ -29,12 +29,12 @@ github_username:  brksnmz
 linkedin_username: brksonmez
 author_website: https://brksnmz.github.io/
 author_display: true
-#googlescholar_link: 
+googlescholar_link: https://scholar.google.com/citations?user=dwXg2iIAAAAJ&hl=en
 uni_link: 
 
 nav_ext_links:
   - name: CV
-    url: https://brksnmz.github.io/assets/BS_CV_2020.pdf
+    url: https://brksnmz.github.io/assets/BS_CV2023.pdf
 
 # Build settings
 # theme: academic
