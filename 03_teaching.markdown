@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Current teaching 
 
-### \textcolor{blue}{University College London}
+### University College London
 
 - Computational Tools for Reproducible Social Science (undergraduate).
 
@@ -31,7 +31,7 @@ permalink: /teaching/
 
 - Statistics Bootcamp (postgraduate)
 
-### \textcolor{blue}{London School of Economics and Political Science} (2018-2021)
+### London School of Economics and Political Science (2018-2021)
 
 - Researching London: Advanced Social Research Methods (undergraduate)
 
@@ -43,7 +43,7 @@ permalink: /teaching/
 
 - Introduction to Quantitative Analysis for Media & Communications (postgraduate)
 
-### \textcolor{blue}{University of Essex} (2016-2020)
+### University of Essex (2016-2020)
 
 - Models and Measurement in Quantitative Sociology (undergraduate)
 
