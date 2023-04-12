@@ -6,7 +6,9 @@ permalink: /research/
 ---
 ### Journal publications
 
-- "Trust and Strength of Family Ties: New Experimental Evidence" *Accepted at Social Psychology Quarterly*, 2022, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
+- "Trust and Strength of Family Ties: New Experimental Evidence" *Social Psychology Quarterly*, 2023, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
+
+  [pdf](https://journals.sagepub.com/doi/epub/10.1177/01902725231162074){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/01902725231162074){: .button}{:target="_blank"} 
 
 - "Other-regarding Behaviors and Attitudes toward Asylum Seekers." *Socius*, 2022, with Sergio Lo Iacono. 
 

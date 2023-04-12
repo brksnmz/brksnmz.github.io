@@ -5,49 +5,56 @@ menu: main
 permalink: /teaching/
 ---
 
-## Current teaching responsibilities 
+## Current teaching 
 
-### University College London
+### \textcolor{blue}{University College London}
 
-- Game Theory for Social Sciences (undergrad).
+- Computational Tools for Reproducible Social Science (undergraduate).
 
-- Social Network Analysis (undergrad). 
+### Pompeu Fabra University (RECSM Summer Methods School) 
+
+- Quantitative Methods in Social Research (postgraduate)
 
 ## Previous teaching experiences
 
-- Spring 2022: Advanced Quantitative Methods, University College London.
+### University College London (2021-2023)
 
-- Spring 2022: Data Analysis in the Real World, University College London.
+- Game Theory for Social Sciences (undergraduate)
 
-- Fall 2021: Intro to Regression Analysis, University College London.
+- Social Network Analysis (undergraduate)
 
-- Jun 2021-2022: Quantitative Methods of Empirical Social Research, Pompeu Fabra University (UPF), The RECSM Summer
-Methods School.
+- Advanced Quantitative Methods (postgraduate)
 
-- Spring 2021: Researching London: Advanced Social Research Methods, London School of Economics & Political Science.
+- Data Analysis in the Real World (postgraduate)
 
-- Fall 2020: Quantitative Social Research Methods, London School of Economics & Political Science.
+- Intro to Regression Analysis (postgraduate)
 
-- Fall 2020: Data in Society, London School of Economics & Political Science.
+- Statistics Bootcamp (postgraduate)
 
-- Spring 2020: Models and Measurement in Quantitative Sociology, University of Essex.
+### \textcolor{blue}{London School of Economics and Political Science} (2018-2021)
 
-- Spring 2019: Introduction to Quantitative Analysis, London School of Economics & Political Science.
+- Researching London: Advanced Social Research Methods (undergraduate)
 
-- Fall 2019: Researching Social Life II, University of Essex.
+- Quantitative Social Research Methods (postgraduate)
 
-- Spring 2019: Ethics and Public Policy, University of Essex.
+- Data in Society (undergraduate)
 
-- Fall 2018: Introduction to Quantitative Analysis for Media & Communications, London School of Economics & Political Science.
+- Introduction to Quantitative Analysis (postgraduate)
 
-- Summer 2018: Longitudinal Data Anaylsis, Essex Summer School in Social Science Data Analysis.
+- Introduction to Quantitative Analysis for Media & Communications (postgraduate)
 
-- Feb 2019: Online Data Collection through Crowdsourcing Marketplaces, University of Essex.
+### \textcolor{blue}{University of Essex} (2016-2020)
 
-- Jun 2018: Online Data Collection through Crowdsourcing Marketplaces, European University Institute. 
+- Models and Measurement in Quantitative Sociology (undergraduate)
 
-- Fall 2016-Spring 2018: Researching Social Life I, University of Essex.
+- Longitudinal Data Anaylsis, Essex Summer School in Social Science Data Analysis (postgraduate)
 
-- Spring 2011-2012: Economic Theory for Engineers, Bilkent University.
+- Ethics and Public Policy (undergraduate)
 
-- Fall 2010-2011: Mathematics for Economists, Bilkent University.
+- Online Data Collection through Crowdsourcing Marketplaces (short course)
+
+- Researching Social Life I (undergraduate)
+
+- Researching Social Life II (undergraduate)
+
+
