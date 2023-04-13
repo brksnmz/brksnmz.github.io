@@ -20,11 +20,11 @@ permalink: /research/
 
 ### Work in progress
 
-- "Human Rights Violations and Public Support for Sanctions." with Baris Ari. (Under review). 
+- "Human Rights Violations and Public Support for Sanctions." with Baris Ari. (Under review - R&R). 
 
   [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}
 
-- "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs and Nick Allum. (Under review).
+- "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs and Nick Allum. (Under review - R&R).
 
   [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
 
