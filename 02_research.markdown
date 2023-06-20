@@ -6,6 +6,14 @@ permalink: /research/
 ---
 ### Journal publications
 
+- "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2023, with Baris Ari. (Forthcoming). 
+
+  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}
+
+- "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum. (Forthcoming).
+
+  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
+
 - "Trust and Strength of Family Ties: New Experimental Evidence" *Social Psychology Quarterly*, 2023, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
 
   [pdf](https://journals.sagepub.com/doi/epub/10.1177/01902725231162074){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/01902725231162074){: .button}{:target="_blank"} 
@@ -19,14 +27,6 @@ permalink: /research/
   [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/esr/jcaa040){: .button}{:target="_blank"}
 
 ### Work in progress
-
-- "Human Rights Violations and Public Support for Sanctions." with Baris Ari. (Under review - R&R). 
-
-  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}
-
-- "Public Perception of Scientists: Partisan vs Non-partisan Thinking." with Kiril Makarovs and Nick Allum. (Under review - R&R).
-
-  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
 
 - "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Manuscript in progress).
 
