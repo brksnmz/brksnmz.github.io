@@ -10,9 +10,9 @@ permalink: /research/
 
   [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}
 
-- "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum. (Forthcoming).
+- "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum.
 
-  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [pre-print](https://osf.io/ns83r/){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [doi](https://doi.org/10.1371/journal.pone.0287572){: .button}{:target="_blank"} [data](https://osf.io/y572w/){: .button}{:target="_blank"}
 
 - "Trust and Strength of Family Ties: New Experimental Evidence" *Social Psychology Quarterly*, 2023, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
 
