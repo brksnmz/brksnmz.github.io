@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### University College London
 
-- Computational Tools for Reproducible Social Science (undergraduate).
+- Computational Social Science (undergraduate).
 
 ### Pompeu Fabra University (RECSM Summer Methods School) 
 
@@ -17,7 +17,9 @@ permalink: /teaching/
 
 ## Previous teaching experiences
 
-### University College London (2021-2023)
+### University College London (2021-2024)
+
+- Experiments in Social Sciences: Online Experiments (NCRM course)
 
 - Game Theory for Social Sciences (undergraduate)
 

@@ -6,9 +6,9 @@ permalink: /research/
 ---
 ### Journal publications
 
-- "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2023, with Baris Ari. (Forthcoming). *(Equal co-authorship)*
+- "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2024, with Baris Ari. *(Equal co-authorship)*
 
-  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"}
 
 - "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum. *(Equal co-authorship)*
 
@@ -28,11 +28,13 @@ permalink: /research/
 
 ### Work in progress
 
-- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Manuscript in progress).
+- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Under review).
 
 - "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
 
-- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Pre-reg in progress).  
+- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"} 
+
+- "Understanding Individuals' Propensity towards Sustainability." with Martina Testori and Sergio Lo Iacono. (Manuscript in progress).
 
 ### Book chapters
 
