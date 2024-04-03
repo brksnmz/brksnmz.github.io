@@ -32,9 +32,11 @@ permalink: /research/
 
 - "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
 
-- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"} 
+- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"}
 
-- "Understanding Individuals' Propensity towards Sustainability." with Martina Testori and Sergio Lo Iacono. (Manuscript in progress).
+- "Close to the Edge: When Do Americans Condone Violence to Stop Undocumented Border Crossings?" with Victoria Donnaloja and Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
+
+- "Understanding Individuals' Propensity towards Sustainability." with Martina Testori and Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/39hky){: .button}{:target="_blank"} 
 
 ### Book chapters
 
