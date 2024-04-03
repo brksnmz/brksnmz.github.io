@@ -9,11 +9,11 @@ permalink: /teaching/
 
 ### University College London
 
-- Computational Social Science (undergraduate).
+- Computational Social Science (undergraduate). [Course page](https://brksnmz.github.io/SOCS0100/){: .button}{:target="_blank"} 
 
 ### Pompeu Fabra University (RECSM Summer Methods School) 
 
-- Quantitative Methods in Social Research (postgraduate)
+- Quantitative Methods in Social Research (postgraduate). [Course page](https://www.upf.edu/documents/3966940/279648924/Quant+methods+in+social+research+syllabus++2024.pdf/75af7c65-1bf4-45af-3b99-1cb784dbc131?t=1699545222480){: .button}{:target="_blank"} 
 
 ## Previous teaching experiences
 
