@@ -40,7 +40,7 @@ Keynote Speaker:
 
 - Bianca Manago (Vanderbilt University)
 
-You can see the previous editions here
+You can see the previous editions [here](https://experimentalsociology.github.io/){:target="_blank"}.
 
 
 
