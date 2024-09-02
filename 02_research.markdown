@@ -28,9 +28,9 @@ permalink: /research/
 
 ### Work in progress
 
-- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Under review).
+- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Revise and Resubmit)
 
-- "Liminality, Social Exclusion, and Segregation: Asylum Seekers and Refugees in the United Kingdom." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
+- "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
 
 - "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"}
 
