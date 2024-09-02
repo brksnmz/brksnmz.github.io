@@ -12,6 +12,7 @@ The growing interest in causal explanations and social mechanisms through well-c
 During the workshop, there will be a dedicated discussant for each extended abstract in addition to an open floor discussion and an opportunity to respond to the comments by the presenting author. We encourage contributions from early career researchers, but more senior scholars are welcome to submit too.
 
 The workshop hosts a keynote speech to be delivered by Bianca Manago (Vanderbilt University). The event will take place fully online and without registration fee.
+
 Organisers: Burak Sonmez (University College London), Ozan Aksoy (University College London) and Sergio Lo Iacono (University of Essex).
 
 Program Committee:
