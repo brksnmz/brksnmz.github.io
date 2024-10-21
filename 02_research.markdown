@@ -6,6 +6,8 @@ permalink: /research/
 ---
 ### Journal publications
 
+- "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Forthcoming in Nature Scientific Reports*, with Sergio Lo Iacono and Malcolm Fairbrother.
+
 - "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2024, with Baris Ari. *(Equal co-authorship)*
 
   [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"}
@@ -27,8 +29,6 @@ permalink: /research/
   [pdf](https://brksnmz.github.io/assets/esr.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/esr/jcaa040){: .button}{:target="_blank"}
 
 ### Work in progress
-
-- "Collective and Individual Solutions to Environmental Dilemmas: The Effects of Social Trust and Institutional Quality." with Malcolm Fairbrother and Sergio Lo Iacono. (Revise and Resubmit)
 
 - "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
 
