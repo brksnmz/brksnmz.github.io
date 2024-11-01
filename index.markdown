@@ -11,6 +11,6 @@ Prior to joining UCL, I was an LSE Fellow in Quantitative Social Research Method
 
 My broad research interests centre around social norms, trust, collective actions, punishment, beliefs, and inequality. My studies primarily use experimental methods and computational tools and have been supported by grants from the British Academy, the Economic and Social Research Council, the Nuffield Foundation, and the Education Endowment Foundation.
 
-My work has been published in the European Sociological Review, the Journal of Peace Research, PLOS ONE, Social Psychology Quarterly, and Socius: Sociological Research for a Dynamic World. 
+My work has been published in Nature Scientific Reports, the European Sociological Review, the Journal of Peace Research, PLOS ONE among others. 
 
 If you are interested in my research, feel free to reach out via [email](mailto:b.sonmez@ucl.ac.uk) or [Bluesky](https://bsky.app/profile/buraksonmez.bsky.social){:target="_blank"}.
