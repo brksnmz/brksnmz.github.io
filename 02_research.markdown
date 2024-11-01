@@ -6,9 +6,9 @@ permalink: /research/
 ---
 ### Journal publications
 
-- "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Forthcoming in Nature Scientific Reports*, with Sergio Lo Iacono and Malcolm Fairbrother.
+- "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Nature Scientific Reports*, 2024, with Sergio Lo Iacono and Malcolm Fairbrother.
 
-  [pre-reg](https://osf.io/qud6k/files/osfstorage/62016b3cbbff5706f4baa05c){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/qud6k/files/osfstorage/62016b3cbbff5706f4baa05c){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41598-024-77190-3){: .button}{:target="_blank"} [data](https://osf.io/qud6k/?view_only=de060718e56b4eccac095359c0ace1c0){: .button}{:target="_blank"}
 
 - "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2024, with Baris Ari. *(Equal co-authorship)*
 
