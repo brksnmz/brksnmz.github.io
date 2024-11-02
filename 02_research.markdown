@@ -12,7 +12,7 @@ permalink: /research/
 
 - "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2024, with Baris Ari. *(Equal co-authorship)*
 
-  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990963){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"} [data](https://cdn.cloud.prio.org/files/5ffe74f0-c010-4ae4-ad97-1e06c250809a/ArSonmez_ReplicationFiles.zip){: .button}{:target="_blank"}
 
 - "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum. *(Equal co-authorship)*
 
