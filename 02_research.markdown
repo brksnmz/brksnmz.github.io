@@ -32,11 +32,19 @@ permalink: /research/
 
 ### Work in progress
 
-- "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"} 
+- "Education and National Identity: Evidence from the Fundamental British Values Policy." with Ozan Aksoy. (Under review). [pre-print](https://osf.io/t7wzv/){: .button}{:target="_blank"}
 
-- "Redistribution Behaviour: The Role of Merit and Structural Inequality". (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"}
+- "Close to the Edge: When Do People Condone Violence to Stop Undocumented Border Crossings?" with Victoria Donnaloja and Sergio Lo Iacono. (Under review). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
 
-- "Close to the Edge: When Do Americans Condone Violence to Stop Undocumented Border Crossings?" with Victoria Donnaloja and Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
+- "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Under review). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"}
+
+- "AI in Courts: Understanding Public Acceptance and Legitimacy across Different Procedural Pathways." with Talia Shwartz, Orna Rabinovich-Einy, and Avital Mentovich. (Under review). [pre-reg](https://osf.io/z58j9){: .button}{:target="_blank"}
+
+- "Investigating the Analytical Robustness of the Social and Behavioural Sciences." with Balazs Aczel and many others. (Under review). [pre-reg](https://osf.io/q5h2c/){: .button}{:target="_blank"}
+
+- "Beyond the Paycheck: Small Class Sizes, Wellbeing Perks, and Work-Life Balance Can Attract Teachers." with Rebecca Allen, Iain Ford, John Jerrim, Loic Menzies, and Sam Sims. (Manuscript in progress). [pre-reg](https://osf.io/958zx){: .button}{:target="_blank"} 
+
+- "Redistribution Behaviour: The Role of Merit and Structural Inequality." (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"}
 
 - "Understanding Individuals' Propensity towards Sustainability." with Martina Testori and Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/39hky){: .button}{:target="_blank"}
 
