@@ -21,7 +21,7 @@
 title: Burak Sonmez
 email: b.sonmez@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Lecturer at University College London
+  Associate Professor at University College London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  brksnmz
