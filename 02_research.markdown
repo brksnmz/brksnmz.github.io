@@ -6,7 +6,9 @@ permalink: /research/
 ---
 ### Journal publications
 
-- "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others.  [pre-reg](https://osf.io/q5h2c/files/fhsw7){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"} [data](https://github.com/marton-balazs-kovacs/multi100){: .button}{:target="_blank"}
+- "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others.
+
+[pre-reg](https://osf.io/q5h2c/files/fhsw7){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"} [data](https://github.com/marton-balazs-kovacs/multi100){: .button}{:target="_blank"}
 
 - "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Nature Scientific Reports*, 2024, with Sergio Lo Iacono and Malcolm Fairbrother.
 
