@@ -6,6 +6,8 @@ permalink: /research/
 ---
 ### Journal publications
 
+- "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others. [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"}
+
 - "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Nature Scientific Reports*, 2024, with Sergio Lo Iacono and Malcolm Fairbrother.
 
   [pre-reg](https://osf.io/qud6k/files/osfstorage/62016b3cbbff5706f4baa05c){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41598-024-77190-3){: .button}{:target="_blank"} [data](https://osf.io/qud6k/?view_only=de060718e56b4eccac095359c0ace1c0){: .button}{:target="_blank"}
@@ -39,8 +41,6 @@ permalink: /research/
 - "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Under review). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"}
 
 - "AI in Courts: Understanding Public Acceptance and Legitimacy across Different Procedural Pathways." with Talia Shwartz, Orna Rabinovich-Einy, and Avital Mentovich. (Under review). [pre-reg](https://osf.io/z58j9){: .button}{:target="_blank"}
-
-- "Investigating the Analytical Robustness of the Social and Behavioural Sciences." with Balazs Aczel and many others. (Under review). [pre-reg](https://osf.io/q5h2c/){: .button}{:target="_blank"}
 
 - "Beyond the Paycheck: Small Class Sizes, Wellbeing Perks, and Work-Life Balance Can Attract Teachers." with Rebecca Allen, Iain Ford, John Jerrim, Loic Menzies, and Sam Sims. (Manuscript in progress). [pre-reg](https://osf.io/958zx){: .button}{:target="_blank"} 
 
