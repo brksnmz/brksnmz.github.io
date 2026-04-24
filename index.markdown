@@ -11,6 +11,6 @@ Prior to joining UCL, I was an LSE Fellow in Quantitative Social Research Method
 
 My research focuses on the micro-level mechanisms driving social phenomena and their macro-level outcomes, including social norms, collective action, trust, punishment, beliefs, and inequality. I primarily use experimental methods and computational tools to investigate these processes. 
 
-My work has been supported by grants from the British Academy, the Economic and Social Research Council, the Nuffield Foundation, and the Education Endowment Foundation and published in Nature Scientific Reports, the European Sociological Review, the Journal of Peace Research, Social Psychology Quarterly among others. 
+My work has been supported by grants from the British Academy, the Economic and Social Research Council, the Nuffield Foundation, and the Education Endowment Foundation and published in Nature outlets, the European Sociological Review, the Journal of Peace Research, Social Psychology Quarterly among others. 
 
 If you are interested in my research, feel free to reach out via [email](mailto:b.sonmez@ucl.ac.uk) or [Bluesky](https://bsky.app/profile/buraksonmez.bsky.social){:target="_blank"}.
