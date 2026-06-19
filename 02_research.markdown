@@ -6,6 +6,8 @@ permalink: /research/
 ---
 ### Journal publications
 
+- "Perceived Threat Drives Support for Coercive Border Enforcement against Unauthorized Crossings" *Migration Studies*, 2026, with Victoria Donnaloja and Sergio Lo Iacono. (Forthcoming). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
+
 - "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others.
   
   [pre-reg](https://osf.io/q5h2c/files/fhsw7){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"} [data](https://github.com/marton-balazs-kovacs/multi100){: .button}{:target="_blank"}
@@ -37,8 +39,6 @@ permalink: /research/
 ### Work in progress
 
 - "Education and National Identity: Evidence from the Fundamental British Values Policy." with Ozan Aksoy. (Under review). [pre-print](https://osf.io/t7wzv/){: .button}{:target="_blank"}
-
-- "Close to the Edge: When Do People Condone Violence to Stop Undocumented Border Crossings?" with Victoria Donnaloja and Sergio Lo Iacono. (Under review). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
 
 - "Limits of the Humanitarian: Liminal Legality and Socio-Exclusion of Asylum Seekers and Refugees." with Sergio Lo Iacono. (Under review). [pre-reg](https://osf.io/dtx57){: .button}{:target="_blank"}
 
