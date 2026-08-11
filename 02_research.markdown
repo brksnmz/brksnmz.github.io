@@ -6,7 +6,9 @@ permalink: /research/
 ---
 ### Journal publications
 
-- "Perceived Threat Drives Support for Coercive Border Enforcement against Unauthorized Crossings" *Migration Studies*, 2026, with Victoria Donnaloja and Sergio Lo Iacono. (Forthcoming). [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} 
+- "Perceived Threat Drives Support for Coercive Border Enforcement against Unauthorized Crossings" *Migration Studies*, 2026, with Victoria Donnaloja and Sergio Lo Iacono.
+
+  [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/migration/mnag039){: .button}{:target="_blank"} [data](https://osf.io/3jqa9/){: .button}{:target="_blank"}
 
 - "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others.
   
