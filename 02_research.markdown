@@ -8,23 +8,23 @@ permalink: /research/
 
 - "Perceived Threat Drives Support for Coercive Border Enforcement against Unauthorized Crossings" *Migration Studies*, 2026, with Victoria Donnaloja and Sergio Lo Iacono.
 
-  [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/migration/mnag039){: .button}{:target="_blank"} [data](https://osf.io/3jqa9/){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/78fz6){: .button}{:target="_blank"} [doi](https://doi.org/10.1093/migration/mnag039){: .button}{:target="_blank"} [data & code](https://osf.io/3jqa9/){: .button}{:target="_blank"}
 
 - "Investigating the Analytical Robustness of the Social and Behavioural Sciences."*Nature*, 2026, with Balazs Aczel, Barnabas Szaszi and many others.
   
-  [pre-reg](https://osf.io/q5h2c/files/fhsw7){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"} [data](https://github.com/marton-balazs-kovacs/multi100){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/q5h2c/files/fhsw7){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41586-025-09844-9){: .button}{:target="_blank"} [data & code](https://github.com/marton-balazs-kovacs/multi100){: .button}{:target="_blank"}
 
 - "The Effect of Trusting Contexts in Social Dilemmas with Collective and Individual Solutions." *Nature Scientific Reports*, 2024, with Sergio Lo Iacono and Malcolm Fairbrother.
 
-  [pre-reg](https://osf.io/qud6k/files/osfstorage/62016b3cbbff5706f4baa05c){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41598-024-77190-3){: .button}{:target="_blank"} [data](https://osf.io/qud6k/?view_only=de060718e56b4eccac095359c0ace1c0){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/qud6k/files/osfstorage/62016b3cbbff5706f4baa05c){: .button}{:target="_blank"} [doi](https://www.nature.com/articles/s41598-024-77190-3){: .button}{:target="_blank"} [data & code](https://osf.io/qud6k/?view_only=de060718e56b4eccac095359c0ace1c0){: .button}{:target="_blank"}
 
 - "Human Rights Violations and Public Support for Sanctions." *Journal of Peace Research*, 2024, with Baris Ari. *(Equal co-authorship)*
 
-  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"} [data](https://cdn.cloud.prio.org/files/5ffe74f0-c010-4ae4-ad97-1e06c250809a/ArSonmez_ReplicationFiles.zip){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/hfusz/){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/00223433231201450){: .button}{:target="_blank"} [data & code](https://cdn.cloud.prio.org/files/5ffe74f0-c010-4ae4-ad97-1e06c250809a/ArSonmez_ReplicationFiles.zip){: .button}{:target="_blank"}
 
 - "Public Perception of Scientists: Experimental Evidence on the Role of Sociodemographic, Partisan, and Professional Characteristics." *PLOS ONE*, 2023, with Kiril Makarovs and Nick Allum. *(Equal co-authorship)*
 
-  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [doi](https://doi.org/10.1371/journal.pone.0287572){: .button}{:target="_blank"} [data](https://osf.io/y572w/){: .button}{:target="_blank"}
+  [pre-reg](https://osf.io/fe2s9){: .button}{:target="_blank"} [doi](https://doi.org/10.1371/journal.pone.0287572){: .button}{:target="_blank"} [data & code](https://osf.io/y572w/){: .button}{:target="_blank"}
 
 - "Trust and Strength of Family Ties: New Experimental Evidence" *Social Psychology Quarterly*, 2023, with John Ermisch, Diego Gambetta, and Sergio Lo Iacono.
 
@@ -32,7 +32,7 @@ permalink: /research/
 
 - "Other-regarding Behaviors and Attitudes toward Asylum Seekers." *Socius*, 2022, with Sergio Lo Iacono. 
 
-  [pdf](https://brksnmz.github.io/assets/socius.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/23780231211073392){: .button}{:target="_blank"} [data](https://osf.io/mecpj/?view_only=4c1d81746fd545a7a62462fbeeee2194){: .button}{:target="_blank"}
+  [pdf](https://brksnmz.github.io/assets/socius.pdf){: .button}{:target="_blank"} [doi](https://doi.org/10.1177/23780231211073392){: .button}{:target="_blank"} [data & code](https://osf.io/mecpj/?view_only=4c1d81746fd545a7a62462fbeeee2194){: .button}{:target="_blank"}
 
 - "The Effect of Trusting and Trustworthy Environments on the Provision of Public Goods." *European Sociological Review*, 2021, with Sergio Lo Iacono. 
 
