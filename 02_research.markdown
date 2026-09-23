@@ -46,9 +46,7 @@ permalink: /research/
 
 - "AI in Courts: Understanding Public Acceptance and Legitimacy across Different Procedural Pathways." with Talia Shwartz, Orna Rabinovich-Einy, and Avital Mentovich. (Under review). [pre-reg](https://osf.io/z58j9){: .button}{:target="_blank"}
 
-- "Beyond the Paycheck: Small Class Sizes, Wellbeing Perks, and Work-Life Balance Can Attract Teachers." with Rebecca Allen, Iain Ford, John Jerrim, Loic Menzies, and Sam Sims. (Manuscript in progress). [pre-reg](https://osf.io/958zx){: .button}{:target="_blank"} 
-
-- "Redistribution Behaviour: The Role of Merit and Structural Inequality." (Manuscript in progress). [pre-reg](https://osf.io/hbj5y){: .button}{:target="_blank"}
+- "Beyond the Paycheck: Small Class Sizes, Wellbeing Perks, and Work-Life Balance Can Attract Teachers." with Rebecca Allen, Iain Ford, John Jerrim, Loic Menzies, and Sam Sims. (Under review). [pre-reg](https://osf.io/958zx){: .button}{:target="_blank"} 
 
 - "Understanding Individuals' Propensity towards Sustainability." with Martina Testori and Sergio Lo Iacono. (Manuscript in progress). [pre-reg](https://osf.io/39hky){: .button}{:target="_blank"}
 
